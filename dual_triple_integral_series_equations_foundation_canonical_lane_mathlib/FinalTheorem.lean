@@ -1,0 +1,9 @@
+import dual_triple_integral_series_equations_foundation_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace dual_triple_integral_series_equations_foundation_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end dual_triple_integral_series_equations_foundation_canonical_lane_mathlib
+end HautevilleHouse
